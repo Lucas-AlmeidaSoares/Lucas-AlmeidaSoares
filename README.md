@@ -1,5 +1,19 @@
 <h2 align="center">Olá, sou o Lucas Almeida Soares e este é o meu espaço no GitHub.</h2>
 
+## Sobre mim
+
+Olá! Meu nome é Lucas Almeida Soares, um apaixonado por inovação e um eterno aprendiz. Atualmente, estou trilhando uma jornada dupla: sou estudante de Ciência da Computação na Universidade Católica de Brasília (UCB) e também de Engenharia Civil na Universidade de Brasília (UnB).
+
+Estou no 4º semestre em ambas as graduações, e essa experiência me dá uma visão única de como a tecnologia pode transformar o mundo da construção e vice-versa. Busco constantemente aplicar meus conhecimentos para criar soluções criativas e eficientes.
+
+🎯 Objetivo profissional:
+Estou à procura de oportunidades de estágio que me permitam adquirir experiência. Estou pronto para enfrentar novos desafios e contribuir com ideias frescas em um ambiente de trabalho.
+
+##  Formação
+
+- 🎓 Graduação em Ciência da Computação – UCB (em andamento)
+- 🎓  Graduação em Engenharia Civil - UNB (em andamento)
+
 ###
 
 <div align="center">
